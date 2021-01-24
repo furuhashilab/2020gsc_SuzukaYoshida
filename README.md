@@ -14,4 +14,4 @@
 © Furuhashi Laboratory/Suzuka Yoshida, CC BY 4.0
 
 # ゼミ論　本文
-https://github.com/furuhashilab/sotsuron2020/blob/master/graduation.md
+https://github.com/furuhashilab/2020gsc_SuzukaYoshida/blob/master/graduate.md
