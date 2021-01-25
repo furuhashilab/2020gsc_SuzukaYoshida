@@ -107,6 +107,21 @@ https://www.jica.go.jp/oda/index.html
 
 # 参考文献
 
+「ODA見える化サイト」
+
+https://www.jica.go.jp/oda/index.html
+
+https://www2.jica.go.jp/ja/oda/index.php?anken=&area1=%E4%B8%AD%E5%8D%97%E7%B1%B3&country1=%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&area2=&country2=&area3=&country3=&field1=&field2=&field3=&start_from=1900&start_to=1999&search=%E6%A4%9C%E7%B4%A2
+
+祖父の活動が載っている報告書
+
+https://libopac.jica.go.jp/images/report/11281524_01.pdf
+
+https://libopac.jica.go.jp/images/report/11285400_01.pdf
+
+https://libopac.jica.go.jp/images/report/11340338_01.pdf
+
+
 # プレゼンスライド
 
 https://docs.google.com/presentation/d/1NxyhL3xqD-WIBDRCVq9xkyZvTPdHU2OUZlnizlB867k/edit?usp=sharing
