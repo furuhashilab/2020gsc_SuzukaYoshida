@@ -15,3 +15,9 @@
 
 # ゼミ論　本文
 https://github.com/furuhashilab/2020gsc_SuzukaYoshida/blob/master/graduate.md
+
+##最終発表
+
+#『2021年度　ゼミ論』　テーマ：祖父の胸像の場所を特定する
+
+##Introduction
